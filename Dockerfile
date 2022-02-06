@@ -1,4 +1,4 @@
-FROM nxtlvlsoftware/pmmp-phpstan:master
+FROM magmanetworkpe/pmmp-phpstan:3.27.0
 
 USER root
 
