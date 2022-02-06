@@ -1,4 +1,4 @@
-FROM magmanetworkpe/pmmp-phpstan:3.27.0
+FROM magmanetworkpe/pmmp-phpstan:stable
 
 USER root
 
